@@ -33,7 +33,7 @@ You can view a demo of the project by visiting the following link:
 Follow these steps to run the project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/TranslatePlusThunk.git
+git clone https://github.com/[ozandmrcn]/TranslatePlusThunk.git
 
 # Navigate to the project folder
 cd TranslatePlusThunk
@@ -41,7 +41,7 @@ cd TranslatePlusThunk
 # Install the required dependencies
 npm install
 
-# Create a `.env` file in the root of the project directory and add your **VITE_API_KEY** from the RapidApi Deep Translate API like this:
+# Create a .env file in the root of the project directory and add your VITE_API_KEY from the RapidApi Deep Translate like this:
 VITE_API_KEY=your-api-key-here
 
 # Run development server
