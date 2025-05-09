@@ -29,6 +29,25 @@ You can view a demo of the project by visiting the following link:
 ## Preview
 ![foto](https://github.com/user-attachments/assets/1e7ef216-e019-40f6-b8fa-1badc157e48c)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
+Follow these steps to run the project locally:
+```bash
+# Clone the repository
+git clone https://github.com/[your-username]/TranslatePlusThunk.git
+
+# Navigate to the project folder
+cd TranslatePlusThunk
+
+# Install the required dependencies
+npm install
+
+# Create a `.env` file in the root of the project directory and add your **VITE_API_KEY** from the RapidApi Deep Translate API like this:
+VITE_API_KEY=your-api-key-here
+
+# Run development server
+npm run dev
+```
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact
 For any questions or feedback, feel free to contact:  
 **Ozan Demircan** - ozandmrcn47@gmail.com
