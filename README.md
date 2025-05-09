@@ -33,7 +33,7 @@ You can view a demo of the project by visiting the following link:
 Follow these steps to run the project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/[ozandmrcn]/TranslatePlusThunk.git
+git clone https://github.com/ozandmrcn/TranslatePlusThunk.git
 
 # Navigate to the project folder
 cd TranslatePlusThunk
